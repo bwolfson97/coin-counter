@@ -4,9 +4,9 @@ This is a simple deep learning application that counts the number of quarters, d
 
 ## TODO
 
-[] Check top losses
-[] Clean dataset
-[] Create object detection model
-[] Create simple web app w/Binder/Gradio
-[] Get it to work on HEIF files or convert to JPEG
-[] Explore simpler problem, just counting number of coins
+- [ ] Check top losses
+- [ ] Clean dataset
+- [ ] Create object detection model
+- [ ] Create simple web app w/Binder/Gradio
+- [ ] Get it to work on HEIF files or convert to JPEG
+- [ ] Explore simpler problem, just counting number of coins
